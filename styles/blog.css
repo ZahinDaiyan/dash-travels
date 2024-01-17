@@ -363,6 +363,17 @@
     justify-content: center;
     align-items: center;
     margin-left: 10px;
+    
+}
+
+.section5-container img{
+width: 800px;
+margin-left: 50px;
+}
+
+.section5-container text{
+    min-height: 600px;
+    max-width: 200px;
 }
 
 .newsletter {
@@ -424,7 +435,7 @@
 }
 
 footer {
-    border: 5px solid black;
+    border: 5px solid white;
     margin: 0px auto;
 }
 
