@@ -1,0 +1,15 @@
+@media only screen and (max-width: 500px) {
+    .head-section {
+        flex-direction: column;
+        justify-content: center;
+    }
+
+    .item-container {
+        display: flex;
+        flex-direction: column;
+        gap: 20px;
+
+    }
+
+}
+
